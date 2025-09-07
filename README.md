@@ -1,6 +1,9 @@
 # ozip2zip-back
 ![Alt text](/image.png)
 
+compiled using pyinstaller --onefile --windowed aop.py
+
+
 (BETA) OZIP tool for Custom ROM for devices without fastboot, No SP Flash tool,  for Oppo, Oneplus, Xiaomi, Realme
 
 Fork https://github.com/bkerler/oppo_ozip_decrypt & https://github.com/chiragkrishna/system.new.dat-extractor
