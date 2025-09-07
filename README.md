@@ -49,25 +49,9 @@ After conversion:
 3. **Conversion fails at decryption**
    - Your device might use a key not in the database
    - Contact developers to add support for your device
-
-4. **HiDPI display issues**
-   - Application automatically detects and scales for HiDPI
-   - Manual scaling can be adjusted in the code
-
-### Logs
-
-Check `oppo_converter.log` for detailed error information and conversion progress.
-
+   - 
 ## 🤝 Contributing
-
-We welcome contributions! Here's how you can help:
-
-1. **Add new device keys**: If you have a device not currently supported
-2. **Improve GUI**: Enhance the user interface or add new features
-3. **Documentation**: Improve this README or add usage examples
-4. **Testing**: Test on different devices and report issues
-
-### Adding New Keys
+want to see this as a application the world can use to flash custom roms for devices with a locked down fastboot, using OEM recovery mode where allowed from device
 
 To add support for a new device:
 
