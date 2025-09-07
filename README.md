@@ -1,10 +1,11 @@
 # ozip2zip-back
-## (help needed! willing to work with anyone)
 A powerful GUI application for converting custom ROMs to OPPO's OZIP format, enabling flashing of custom firmware on OPPO/Realme devices using the official recovery system.
-(BETA) OZIP tool for Custom ROM for devices without fastboot, No SP Flash tool,  for Oppo, Oneplus, Xiaomi, Realme
+
 ![Alt text](/image.png)
 
-compiled using pyinstaller --onefile --windowed aop.py
+compiled using 
+pyinstaller --onefile --windowed aop.py
+
 MUST HAVE PYTHON!
 
 ### Basic Conversion
@@ -66,9 +67,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⚠️ Disclaimer
 
-This tool is provided for educational and development purposes only. Use at your own risk. The developers are not responsible for any damage to devices or data loss resulting from the use of this software.
+This tool is provided for educational and development purposes only. Use at your own risk. The developers are not responsible for any damage to devices or data loss resulting from the use of this software. Always backup your data before flashing any firmware.
 
-Always backup your data before flashing any firmware.
-
-## 📞 Support
-- **Email**: mughal641@outlook.com
